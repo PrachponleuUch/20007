@@ -1,0 +1,16 @@
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\bin\Debug\CardGame.exe
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\bin\Debug\CardGame.pdb
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\obj\Debug\CardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\obj\Debug\CardGame.exe
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\CARDGAME\CardGame\obj\Debug\CardGame.pdb
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\bin\Debug\CardGame.exe
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\bin\Debug\CardGame.pdb
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\obj\Debug\CardGame.csproj.AssemblyReference.cache
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\obj\Debug\CardGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\obj\Debug\CardGame.exe
+C:\Users\ponle\OneDrive\Desktop\2023\SEM1CS\20007\Custom_Project\CardGame\obj\Debug\CardGame.pdb
